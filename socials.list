@@ -1,9 +1,14 @@
+! TikTok
 ||ttlivecdn.com.c.worldfcdn.com^
 ||tiktokcdn-us.com.atomile.com^
 ||ttlivecdn.com^
+
+! Likee
 ||likee.com^
 ||likee.video^
 ||likeevideo.com^
+
+! BeReal
 ||bereal.com^
 ||bereal.network^
 ||bereal.team^
@@ -13,3 +18,6 @@
 ||bereal-prod-config-07.europe-west1.firebasedatabase.app^
 ||bereal-prod-config-09.europe-west1.firebasedatabase.app^
 ||us-central1-alexisbarreyat-bereal.cloudfunctions.net^
+||bereal-prod-notif-010.europe-west1.firebasedatabase.app^
+||bereal-prod-config-4.europe-west1.firebasedatabase.app^
+||bereal-prod-notif-09.europe-west1.firebasedatabase.app^
